@@ -1,0 +1,4 @@
+https://learn.adafruit.com/adafruit-motor-shield/library-install
+
+This library has a lot of example code that it good for testing. To find it, go to File > Examples > Adafruit Motor Shield Library
+I used StepperTest and modified it a bit to run both motors.
